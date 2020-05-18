@@ -1,9 +1,7 @@
 # MetalDetective
 A metal detector simulator that allows you to search and dig for treasure on a beach.
 
-****************************************************************************************
-
-Attributions
+## Attributions
 
 Background sound track:
 wave close coast small LONG by klankbeeld
@@ -22,9 +20,7 @@ Palm tree model:
 Based on "palm tree modeling in autodesk maya" by Daniyal-Environmental Artist
 https://www.youtube.com/watch?v=DZaV7xcoLFc
 
-****************************************************************************************
-
-Description
+## Description
 
 This game is a metal detector simulator, originally created as part of the Game 
 Programming and Development coursework at Southern New Hampshire University. In the game, 
@@ -32,7 +28,7 @@ the player must use a metal detector to search a beach for hidden treasure withi
 limit. A dig ability is included to allow the player to reveal the treasure after the 
 detector has indicated it is nearby through a combination of sound and visual cues.
 
-Tools Used
+## Tools Used
 
 - Unreal Engine 4
 - Autodesk Maya
@@ -40,7 +36,7 @@ Tools Used
 - Adobe Photoshop
 - GIMP
 
-Reflection
+## Reflection
 
 How would you describe the process of creating and polishing the artifact?
 
